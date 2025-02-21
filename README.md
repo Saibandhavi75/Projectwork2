@@ -1,6 +1,4 @@
-## Title of the Project
-Remaining Useful Life Estimation Using Ensemble Learning Approach for L-ion Batteries in Automobiles
-
+## Remaining Useful Life Estimation Using Ensemble Learning Approach for L-ion Batteries in Automobiles
 
 The project focuses on predicting the Remaining Useful Life (RUL) of NMC-LCO Lithium-Ion batteries using machine learning models and ensemble learning techniques. Data from 14 batteries with a nominal capacity of 2.8 Ah is analyzed, extracting features like voltage decline rate and charge time change. K-Nearest Neighbors (KNN), Random Forest, and Support Vector Machine (SVM) models are trained, achieving accuracies of 90.3%, 92.5%, and 88.7% respectively. The ensemble model ENHPT combines these predictions, resulting in a 94.8% accuracy. Deep learning models like CNN and LSTM further enhance accuracy to 96.2% and 97.5%. Feature selection through backward regression and correlation analysis optimizes model performance. Visualization tools like scatter plots and line graphs illustrate actual vs predicted RUL values, validating the models' effectiveness. This comprehensive approach supports advanced battery management systems for electric vehicles and renewable energy applications.
 ## About
@@ -60,9 +58,13 @@ This research significantly advances battery management systems by providing acc
 
 ## Articles published / References
 [1] Safavi, V., Mohammadi Vaniar, A., Bazmohammadi, N., Vasquez, J. C., & Guerrero, J. M. (2024). Battery remaining useful life prediction using machine learning models: A comparative study. Information, 15(3), 124. https://doi.org/10.3390/info15030124
+
 [2]Zhang, Y., & Li, H. (2021). AI-based control of environmental parameters in submarine cabins: A review. Renewable and Sustainable Energy Reviews, 135, 110195.
+
 [3]Suh, S., Mittal, D. A., Bello, H., Zhou, B., Jha, M. S., & Lukowicz, P. (2023). Remaining useful life prediction of lithium-ion batteries using spatio-temporal multimodal attention networks. arXiv preprint arXiv:2310.18924.
+
 [4]Mittal, D., Bello, H., Zhou, B., Jha, M. S., Suh, S., & Lukowicz, P. (2023). Two-stage early prediction framework of remaining useful life for lithium-ion batteries. arXiv preprint arXiv:2308.03664.
+
 [5]Hilal, H., & Saha, P. (2023). Forecasting lithium-ion battery longevity with limited data availability: Benchmarking different machine learning algorithms. arXiv preprint arXiv:2312.05717.
 
 
